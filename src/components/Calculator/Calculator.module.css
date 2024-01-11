@@ -1,0 +1,20 @@
+input {
+  border-radius: 30px;
+  text-align: center;
+  margin: 10px 0px;
+  padding: 10px 10px;
+}
+
+input:not(:last-child) {
+  margin-right: 10px;
+}
+
+p{
+  text-align: center;
+}
+
+.calculatorContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
